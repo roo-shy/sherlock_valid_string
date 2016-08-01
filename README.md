@@ -11,4 +11,3 @@
 * Return true if the uniq.size is only 2 & the difference between the values is only 1
 
 * Else return false
-# sherlock_valid_string
