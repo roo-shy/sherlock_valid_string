@@ -1,5 +1,7 @@
 #SherlockAndValidString
 
+###Functionality
+
 * I created a new hash (Hash.new takes an argument that will be returned when a key that doesn’t correspond to a hash entry is accessed)
 
 * Knowing that, you can take an array of elements and easily get occurrence counts for each unique element.
